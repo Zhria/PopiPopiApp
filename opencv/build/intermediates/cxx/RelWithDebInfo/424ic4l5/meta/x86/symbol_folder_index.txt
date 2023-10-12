@@ -1,0 +1,1 @@
+D:\Università\Anno 1\Primo Semestre\Sistemi Digitali\Laboratorio\Progetto_SisDig\Real-Time_Face_Recognition_Android-master\opencv\build\intermediates\cxx\RelWithDebInfo\424ic4l5\obj\x86

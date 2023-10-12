@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "D:\\Lavori\\Real-Time_Face_Recognition_Android-master\\openCV4.7.0\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -839639170
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027D:\\Lavori\\Real-Time_Face_Recognition_Android-master\\openCV4.7.0\\.cxx\\RelWithDebInfo\\2u4rn5k4\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "D:\\Lavori\\Real-Time_Face_Recognition_Android-master\\openCV4.7.0\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -111240629
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\Lavori\\Real-Time_Face_Recognition_Android-master\\openCV4.7.0\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1047750005
+  }
+]

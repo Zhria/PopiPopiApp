@@ -1,0 +1,1 @@
+D:\Lavori\Real-Time_Face_Recognition_Android-master\opencv\build\intermediates\cxx\RelWithDebInfo\1d5w1ir4\obj\x86

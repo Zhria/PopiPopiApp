@@ -1,0 +1,1 @@
+D:\Lavori\Real-Time_Face_Recognition_Android-master\openCV4.7.0\build\intermediates\cxx\Debug\715r5ae1\obj\x86
